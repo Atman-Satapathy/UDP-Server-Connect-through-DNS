@@ -7,6 +7,7 @@
  
 <li>Communication channels are orchestrated using DatagramSockets, with careful consideration given to port assignment. DS listens on port 9876, H1 dynamically selects an available port, and H2 awaits communication on port 9877. The architecture employs an infinite loop within DS, ensuring continuous responsiveness to incoming requests and establishing a robust network environment.</li>
 </ul>
+
 ## OBJECTIVE.
 
 <ul>
