@@ -1,5 +1,3 @@
-package CN_Project;
-
 import java.net.*;
 import java.util.Date;
 
